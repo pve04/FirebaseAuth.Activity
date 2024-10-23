@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase_Auth</string>
+    <string name="welcome"> Welcome, %s!</string>
+</resources>
